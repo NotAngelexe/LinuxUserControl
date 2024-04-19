@@ -1,0 +1,15 @@
+#Ejemplo de case para la salida      
+
+  5) funex=${funex=dialog}
+			            exit=`$funne --stdout --title "Salida"  --yesno "¿realmente desea salir?" 0 0`
+echo $exit
+
+                   		if [ $exit = 1 ]
+                        then
+                           		  break
+                      fi
+                    if [ $exit = 0 ]
+                    then
+                                 ./TUI.sh
+                           		
+                       		 fi ;;

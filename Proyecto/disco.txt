@@ -1,0 +1,6 @@
+  /dev/sda1 [     512.00 MiB] 
+  /dev/sda5 [     <49.50 GiB] 
+  0 disks
+  2 partitions
+  0 LVM physical volume whole disks
+  0 LVM physical volumes
